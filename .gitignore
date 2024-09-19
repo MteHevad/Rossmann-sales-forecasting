@@ -1,0 +1,14 @@
+# Data files
+*.csv
+
+# Model files
+*.pkl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+
+# OS files
+.DS_Store
