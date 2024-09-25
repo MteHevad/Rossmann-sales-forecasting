@@ -8,3 +8,8 @@ This project forecasts the sales of Rossmann Pharmaceutical stores using various
 - **reports/**: Contains EDA and results reports.
 ## Setup
 1. Clone the repository:
+## Directory Structure
+- `data/`: Raw and processed data.
+- `notebooks/`: Jupyter Notebooks for EDA, feature engineering, and model building.
+- `models/`: Serialized models.
+- `api/`: Flask-based API for serving predictions
