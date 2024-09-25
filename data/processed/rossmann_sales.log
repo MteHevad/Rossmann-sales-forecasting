@@ -1,0 +1,25 @@
+2024-09-24 16:31:55,760:INFO:Data successfully loaded and merged.
+2024-09-24 16:31:55,864:INFO:Missing values handled.
+2024-09-24 16:31:56,549:INFO:Feature engineering completed.
+2024-09-24 16:31:57,045:INFO:Categorical encoding completed.
+2024-09-24 16:31:57,533:INFO:Data scaled and split into training and validation sets.
+2024-09-24 16:34:15,102:INFO:Data successfully loaded and merged.
+2024-09-24 16:34:15,219:INFO:Missing values handled.
+2024-09-24 16:34:15,866:INFO:Feature engineering completed.
+2024-09-24 16:34:16,309:INFO:Categorical encoding completed.
+2024-09-24 16:34:16,792:INFO:Data scaled and split into training and validation sets.
+2024-09-24 16:34:17,923:INFO:Data successfully loaded and merged.
+2024-09-24 16:34:18,029:INFO:Missing values handled.
+2024-09-24 16:34:18,672:INFO:Feature engineering completed.
+2024-09-24 16:34:19,129:INFO:Categorical encoding completed.
+2024-09-24 16:34:19,530:INFO:Data scaled and split into training and validation sets.
+2024-09-24 16:35:52,396:INFO:Data successfully loaded and merged.
+2024-09-24 16:35:52,502:INFO:Missing values handled.
+2024-09-24 16:35:53,143:INFO:Feature engineering completed.
+2024-09-24 16:35:53,584:INFO:Categorical encoding completed.
+2024-09-24 16:35:53,989:INFO:Data scaled and split into training and validation sets.
+2024-09-24 16:35:55,079:INFO:Data successfully loaded and merged.
+2024-09-24 16:35:55,189:INFO:Missing values handled.
+2024-09-24 16:35:55,844:INFO:Feature engineering completed.
+2024-09-24 16:35:56,308:INFO:Categorical encoding completed.
+2024-09-24 16:35:56,703:INFO:Data scaled and split into training and validation sets.
